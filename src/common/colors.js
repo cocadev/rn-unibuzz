@@ -1,0 +1,21 @@
+export const colors = {
+  ORANGE      : '#f5911f',
+  PURPLE      : '#6881c0',
+    LIGHTORANGE : '#f9d3b8',
+  GREEN       : '#3ab674',
+  CYAN        : '#14B1F8',
+    LIGHTPURPLE : '#D7CCEA',
+    WHITEPURPLE : '#ECE9F2',
+  YELLOW      : '#FFE63E',
+  RED         : '#FF3B30',
+  BLACK       : '#000000',
+  GREY1       : '#666666',
+  GREY2       : '#8a8a8f',
+  GREY3       : '#c8c7cc',
+  GREY4       : '#eaeaea',
+  GREY5       : '#f9f9f9',
+  WHITE       : '#ffffff',
+  SKY :'#00aced',
+  SKY2 : '#929fd0',
+  PINK: "#ec1765"
+}
