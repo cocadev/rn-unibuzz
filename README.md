@@ -1,2 +1,2 @@
-# unibuzz
-React-Native
+# React-Native unibuzz App
+
